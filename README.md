@@ -1,4 +1,9 @@
 # 📊 Circle_Funnel_SQL_Analysis
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-black)
+![Data](https://img.shields.io/badge/Data-Cleaned-success)
+
 
 This project analyzes the B2B sales acquisition funnel of **Circle**, a French eco-responsible sportswear company.  
 The goal is to evaluate funnel efficiency, conversion performance, and progression across different stages of the B2B sales pipeline using SQL queries executed in **Google BigQuery**.
